@@ -1,0 +1,99 @@
+{
+  "layer_itemcode_mapping": {
+    "17A_FRAME": "no data",
+    "17B_ROOF_FRAME": "no data",
+    "17_BEAMS/PLATES": "no data",
+    "17_JOIST": "no data",
+    "L1 - SUBSTRUCTURE": "Substructure",
+    "L2 - GROUND - LOWER WALLS": "Ground - Lower Walls",
+    "L2.5 - TIE DOWNS & FIXINGS": "Tie Downs & Fixings",
+    "L3 - FIRST FLOOR SYSTEM": "First Floor System",
+    "L30.1 - UPPER EAVES & SOFFITS": "Upper Eaves & Soffits",
+    "L30.2 - LOWER EAVES & SOFFITS": "Lower Eaves & Soffits",
+    "L4 - FIRST FLOOR WALLS": "First Floor Walls",
+    "L5 - SECOND FLOOR SYSTEM": "Second Floor System",
+    "L50 - EXTERNAL CLADDING SUNDRIES": "External Cladding Sundries",
+    "L6 - SECOND FLOOR WALLS": "Second Floor Walls",
+    "L7 - UPPER ROOF": "Upper Roof",
+    "L8 - LOWER ROOF": "Lower Roof",
+    "L9 - DECKS & PERGOLAS": "Decks & Pergolas",
+    "L90 - 2ND FIX": "2nd Fix",
+    "Level Undefined": "No Level Defined"
+  },
+  "costcode_unit_mapping": {
+    "obj1": {
+      "V2E005-150-500": "Each",
+      "V2E006-300-062": "Each"
+    },
+    "Trench Mesh": {
+      "V2E003-300-001": "Each",
+      "V2E003-300-002": "Each",
+      "V2E003-300-003": "Each",
+      "V2E003-300-004": "Each",
+      "V2E003-300-005": "Each",
+      "V2E003-300-006": "Each",
+      "V2E003-300-007": "Each",
+      "V2E003-300-025": "Each",
+      "V2E003-300-026": "Each",
+      "V2E003-300-027": "Each",
+      "V2E003-300-028": "Each",
+      "V2E003-300-029": "Each",
+      "V2E003-300-030": "Each",
+      "V2E003-300-040": "Each",
+      "V2E003-300-041": "Each",
+      "V2E003-300-042": "Each",
+      "V2E003-300-043": "Each",
+      "V2E003-300-044": "Each",
+      "V2E003-300-045": "Each",
+      "V2E003-300-046": "Each",
+      "V2E003-300-047": "Each",
+      "V2E003-300-048": "Each",
+      "V2E003-300-049": "Each",
+      "V2E003-300-050": "Each",
+      "V2E003-300-051": "Each",
+      "V2E003-300-052": "Each",
+      "V2E003-300-053": "Each"
+    },
+    "Structural Ply": {
+      "V2E005-200-651": "Each",
+      "V2E005-200-652": "Each",
+      "V2E005-200-653": "Each",
+      "V2E005-200-654": "Each",
+      "V2E005-200-655": "Each",
+      "V2E005-200-656": "Each",
+      "V2E005-200-657": "Each",
+      "V2E005-200-658": "Each",
+      "V2E005-200-659": "Each",
+      "V2E005-200-660": "Each",
+      "V2E005-200-661": "Each",
+      "V2E005-200-662": "Each",
+      "V2E005-200-663": "Each",
+      "V2E005-200-664": "Each",
+      "V2E005-200-665": "Each",
+      "V2E005-200-666": "Each",
+      "V2E005-200-667": "Each",
+      "V2E005-200-668": "Each",
+      "V2E005-200-669": "Each",
+      "V2E005-200-670": "Each",
+      "V2E005-200-675": "Each",
+      "V2E005-200-676": "Each",
+      "V2E005-200-677": "Each",
+      "V2E005-200-678": "Each",
+      "V2E005-200-679": "Each"
+    }
+  },
+  "layer_vendor_mapping": {
+    "17A_FRAME": "V2E010-010",
+    "17B_ROOF_FRAME": "V2E010-010",
+    "17_BEAMS/PLATES": "V2E010-010",
+    "17_JOIST": "V2E010-010"
+  },
+  "protected_layers": {
+    "protected_layers": [
+      "17A_FRAME",
+      "17B_ROOF_FRAME",
+      "17_BEAMS/PLATES",
+      "17_JOIST"
+    ]
+  }
+}
